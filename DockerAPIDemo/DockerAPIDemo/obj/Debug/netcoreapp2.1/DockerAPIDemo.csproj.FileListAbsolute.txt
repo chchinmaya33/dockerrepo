@@ -1,0 +1,15 @@
+C:\Chinmaya\NetCoreProjects\DockerDemo1\DockerAPIDemo\DockerAPIDemo\obj\Debug\netcoreapp2.1\DockerAPIDemo.csproj.CoreCompileInputs.cache
+C:\Chinmaya\NetCoreProjects\DockerDemo1\DockerAPIDemo\DockerAPIDemo\obj\Debug\netcoreapp2.1\DockerAPIDemo.AssemblyInfoInputs.cache
+C:\Chinmaya\NetCoreProjects\DockerDemo1\DockerAPIDemo\DockerAPIDemo\obj\Debug\netcoreapp2.1\DockerAPIDemo.AssemblyInfo.cs
+C:\Chinmaya\NetCoreProjects\DockerDemo1\DockerAPIDemo\DockerAPIDemo\bin\Debug\netcoreapp2.1\DockerAPIDemo.deps.json
+C:\Chinmaya\NetCoreProjects\DockerDemo1\DockerAPIDemo\DockerAPIDemo\bin\Debug\netcoreapp2.1\DockerAPIDemo.runtimeconfig.json
+C:\Chinmaya\NetCoreProjects\DockerDemo1\DockerAPIDemo\DockerAPIDemo\bin\Debug\netcoreapp2.1\DockerAPIDemo.runtimeconfig.dev.json
+C:\Chinmaya\NetCoreProjects\DockerDemo1\DockerAPIDemo\DockerAPIDemo\bin\Debug\netcoreapp2.1\DockerAPIDemo.dll
+C:\Chinmaya\NetCoreProjects\DockerDemo1\DockerAPIDemo\DockerAPIDemo\bin\Debug\netcoreapp2.1\DockerAPIDemo.pdb
+C:\Chinmaya\NetCoreProjects\DockerDemo1\DockerAPIDemo\DockerAPIDemo\obj\Debug\netcoreapp2.1\DockerAPIDemo.RazorAssemblyInfo.cache
+C:\Chinmaya\NetCoreProjects\DockerDemo1\DockerAPIDemo\DockerAPIDemo\obj\Debug\netcoreapp2.1\DockerAPIDemo.RazorAssemblyInfo.cs
+C:\Chinmaya\NetCoreProjects\DockerDemo1\DockerAPIDemo\DockerAPIDemo\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Chinmaya\NetCoreProjects\DockerDemo1\DockerAPIDemo\DockerAPIDemo\obj\Debug\netcoreapp2.1\DockerAPIDemo.RazorTargetAssemblyInfo.cache
+C:\Chinmaya\NetCoreProjects\DockerDemo1\DockerAPIDemo\DockerAPIDemo\obj\Debug\netcoreapp2.1\DockerAPIDemo.dll
+C:\Chinmaya\NetCoreProjects\DockerDemo1\DockerAPIDemo\DockerAPIDemo\obj\Debug\netcoreapp2.1\DockerAPIDemo.pdb
+C:\Chinmaya\NetCoreProjects\DockerDemo1\DockerAPIDemo\DockerAPIDemo\obj\Debug\netcoreapp2.1\DockerAPIDemo.csprojAssemblyReference.cache
